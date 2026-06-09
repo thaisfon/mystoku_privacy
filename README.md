@@ -1,24 +1,27 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Política de Privacidad - Mystoku</title>
-    <style>body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; }</style>
-</head>
-<body>
-    <h1>Política de Privacidad de Mystoku</h1>
-    <p><strong>Fecha de entrada en vigor:</strong> 9 de junio de 2026</p>
-    
-    <h2>1. Información que recopilamos</h2>
-    <p>Mystoku no requiere que te registres ni proporciones datos personales. Utilizamos Google AdMob para anuncios y Google Play Billing para compras.</p>
-    
-    <h2>2. Uso de la información</h2>
-    <p>La información recopilada por terceros se utiliza para gestionar compras y mostrar anuncios relevantes.</p>
+# Política de Privacidad de Mystoku
 
-    <h2>3. Seguridad</h2>
-    <p>Todos los datos se transmiten de forma cifrada mediante HTTPS.</p>
+**Fecha de entrada en vigor:** 9 de junio de 2026
 
-    <h2>4. Contacto</h2>
-    <p>Si tienes dudas, contáctanos en: thfoma@gmail.com</p>
-</body>
-</html>
+En **Mystoku**, nos tomamos muy en serio tu privacidad. Esta política describe cómo manejamos la información en nuestra aplicación móvil.
+
+## 1. Información que recopilamos
+Mystoku no requiere que te registres ni proporciones datos personales directos (como nombre o correo) para jugar. Sin embargo, utilizamos servicios de terceros que pueden recopilar información técnica:
+
+*   **Google Play Billing:** Si realizas compras dentro de la app (como "Quitar Anuncios"), Google procesa tu información de pago. Nosotros solo recibimos la confirmación técnica para desbloquear el contenido.
+*   **Google AdMob:** Nuestra aplicación incluye publicidad. AdMob puede recopilar identificadores de dispositivo (como el ID de publicidad de Android) para mostrar anuncios que sean relevantes para ti.
+
+## 2. Uso de la información
+La información recopilada por los servicios de terceros mencionados se utiliza exclusivamente para:
+*   Gestionar y validar tus compras integradas.
+*   Mostrar anuncios publicitarios y medir su rendimiento.
+*   Analizar de forma anónima errores para mejorar la estabilidad del juego.
+
+## 3. Seguridad de los datos
+Toda la transmisión de datos realizada por las librerías oficiales de Google se realiza de forma cifrada mediante protocolos seguros (HTTPS). No compartimos ni vendemos tus datos a ninguna entidad fuera de los proveedores de servicios necesarios para el funcionamiento de la app.
+
+## 4. Tus derechos y eliminación de datos
+Dado que no recopilamos datos personales en nuestros propios servidores, la forma más sencilla de eliminar cualquier dato local es desinstalar la aplicación. Para gestionar o restablecer tu ID de publicidad, puedes hacerlo en cualquier momento desde los ajustes de Google en tu dispositivo Android.
+
+## 5. Contacto
+Si tienes cualquier duda o pregunta sobre esta política de privacidad, puedes contactarnos en:
+**thfoma@gmail.com**
